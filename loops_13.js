@@ -9,4 +9,4 @@ for (let i = str.length-1; i >= 0; i--) {
     
 }
 
-console.log(rev);
+console.log("Original String: "+str+"\nReverse String: "+rev);
